@@ -1,0 +1,26 @@
+main {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 32px;
+}
+
+section {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+  background-color: #fff;
+}
+
+h1 {
+  margin-bottom: 8px;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+button {
+  padding: 8px 16px;
+  cursor: pointer;
+}

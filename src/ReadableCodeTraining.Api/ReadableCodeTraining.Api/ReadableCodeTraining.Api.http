@@ -1,0 +1,6 @@
+@ReadableCodeTraining.Api_HostAddress = http://localhost:5144
+
+GET {{ReadableCodeTraining.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
